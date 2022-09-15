@@ -1,0 +1,23 @@
+{
+  "name": "iroha-js-collection",
+  "version": "1.0.0",
+  "description": "A copy of JS scripts from the tutorial made for Alex Stroke",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Victor Gridnevsky",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "@iroha2/client": "^2.0.0",
+    "@iroha2/crypto-core": "^0.1.1",
+    "@iroha2/crypto-target-node": "^0.3.0",
+    "@iroha2/crypto-target-web": "^0.3.0",
+    "@iroha2/data-model": "^2.0.0",
+    "hada": "^0.0.8",
+    "tsx": "^3.8.2",
+    "eslint": "^8.22.0",
+    "eslint-config-alloy": "^4.6.2",
+    "eslint-config-prettier": "^8.5.0"
+  }
+}
